@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+html {
+    overflow: hidden;
+}
+
+main {
+    height: 700px;
+    background: linear-gradient(rgba(7, 0, 0, 0.8), rgba(7, 0, 0, 0.8)), url(img/NG-en-20191230-popsignuptwoweeks-perspective_alpha_website_s.jpg);
+    background-size: co;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li a img {
+    height: 80px;
+    width: 200px;
+}
+
+.btn {
+    background-color: #e50914;
+    font-size: 16px;
+    padding: 7px 17px;
+    font-weight: 400;
+    font-family: Helvetica;
+    height: 40px;
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+    margin: 0px 0px 0px 950px;
+    position: relative;
+    top: -30px;
+}
+
+.all {
+    margin: 140px 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.all header {
+    font-size: 50px;
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 26px;
+}
+
+.text p {
+    color: #ffffff;
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 26px;
+}
+
+.search p {
+    color: #ffffff;
+    font-size: 19px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+}
+
+.searchbar {
+    width: 50%;
+    padding: 20px 20px;
+    margin-left: 300px;
+    position: absolute;
+}
+
+.searchbar::placeholder {
+    font-size: 16px;
+}
+
+.bttn {
+    background-color: #e50914;
+    font-size: 26px;
+    padding: 14px 30px;
+    font-weight: 400;
+    font-family: Helvetica;
+    color: #ffffff;
+    border: none;
+    position: relative;
+    left: 853px;
+}
+
+
+
+
+
+/* https://gist.github.com/breadface/e8a1cb344ba8f1f865ced87b79f853c7 - AJAX */
